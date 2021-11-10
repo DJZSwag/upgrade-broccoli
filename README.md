@@ -1,4 +1,4 @@
-# upgraded-broccoli
+# Taste The Broccoli!
 Upgrade your broccoli for free with this amazing tool!
 
 
